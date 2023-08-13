@@ -1,0 +1,27 @@
+{
+  "id": "mobile-ui",
+  "title": "Mobile UI",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "touch-vtt",
+        "type": "module"
+      }
+    ]
+  },
+  "description": "Enhance your Foundry VTT experience with our Mobile UI. Seamlessly access and engage with your Foundry virtual tabletop instance on-the-go, right from your mobile web browser. Perfect for players who crave flexibility. Dive into your campaigns anytime, anywhere.",
+  "authors": [
+    {
+      "name": "Sly Cub Games",
+      "email": "slycubgames@gmail.com",
+      "url": "https://github.com/slycubgames",
+      "discord": "another_rpg_nerd"
+    }
+  ],
+  "url": "https://github.com/slycubgames/mobile-ui"
+}
